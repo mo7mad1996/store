@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "code": "123",
+      "name": "",
+      "quantity": "20",
+      "section": "",
+      "id": 1
+    },
+    {
+      "code": "450",
+      "name": "",
+      "quantity": "33",
+      "section": "",
+      "id": 2
+    }
+  ]
+}
